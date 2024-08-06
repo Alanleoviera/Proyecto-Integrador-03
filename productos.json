@@ -1,0 +1,87 @@
+[
+	{
+		"nombre": "Escritorio Benalmadena",
+		"precio": 125000,
+		"stock": 55,
+		"marca": "Roble",
+		"categoria": "Escritorios",
+		"descorta": "Escritorio Benalmadena de Roble",
+		"deslarga": "Estilo industrial y está fabricado con madera maciza de pino recuperada.",
+		"envio": false,
+		"edaddesde": "5",
+		"edadhasta": "59",
+		"foto": "./img/Productos/escritorio-benalmadena.webp",
+		"id": "1"
+	  },
+	  {
+		"nombre": "Escritorio Murcia con Cajones",
+		"precio": "185000",
+		"stock": 5,
+		"marca": "Pino",
+		"categoria": "Escritorios",
+		"descorta": "Escritorio rústico con dos cajones",
+		"deslarga": "Escritorio rústico con dos cajones. Hermosa combinacion de colores de maderas duras recuperadas",
+		"envio": false,
+		"edaddesde": 12,
+		"edadhasta": 60,
+		"foto": "./img/Productos/escritorio-murcia.webp",
+		"id": "2"
+	  },
+	  {
+		"nombre": "Recibidor Rústico Amelia",
+		"precio": "115000",
+		"stock": 8,
+		"marca": "Laurel",
+		"categoria": "Recibidores",
+		"descorta": "Mueble Recibidor de Madera",
+		"deslarga": "Mueble Recibidor de Madera con dos cajones y detalle en X: Estilo Farmhouse y Funcionalidad. Bandeja inferior para adornos.",
+		"envio": false,
+		"edaddesde": 12,
+		"edadhasta": 60,
+		"foto": "./img/Productos/recibidor-rustico-de-madera-con-gavetas.webp",
+		"id": "3"
+	  },
+	  {
+		"nombre": "Macetero Estepona",
+		"precio": "85000",
+		"stock": 6,
+		"marca": "Saligna",
+		"categoria": "Maceteros",
+		"descorta": "Hecho de madera de palets con diseño funcional",
+		"deslarga": "Hecho de madera de palets con diseño funcional, y ayuda a proteger las plantas de la lluvia o la humedad. Las ruedas permiten que se desplace fácilmente y admite todo tipo de plantas.",
+		"envio": false,
+		"edaddesde": 12,
+		"edadhasta": 60,
+		"foto": "./img/Productos/jardinera-2-1.webp",
+		"id": "4"
+	  },
+	  {
+		"nombre": "Jardinera Casita",
+		"precio": "85000",
+		"stock": 96,
+		"marca": "Saligna",
+		"categoria": "Maceteros",
+		"descorta": "Macetero jardinera casita",
+		"deslarga": "Jardinera estilo casita de madera diseñada para ser resistente a la vez bonita y funcional. El cuidado y altos estándares de calidad en nuestros productos hacen que sea fácil adaptarlas tanto en interiores como exteriores.",
+		"envio": false,
+		"edaddesde": 12,
+		"edadhasta": 60,
+		"foto": "./img/Productos/jardinera-3.webp",
+		"id": "5"
+	  },
+	  {
+		"nombre": "Macetero Huelva",
+		"precio": "75000",
+		"stock": 96,
+		"marca": "Saligna",
+		"categoria": "Maceteros",
+		"descorta": "Macetero de madera y jardinera exterior",
+		"deslarga": "Macetero de madera y jardinera exterior para macetas. Cómodo y práctico, este macetero de madera no sólo te ayudará a mantener en su lugar las plantas que tienes en la terraza, sino que además se convertirá en un acogedor elemento decorativo.",
+		"envio": false,
+		"edaddesde": 12,
+		"edadhasta": 60,
+		"foto": "./img/Productos/macetero-huelva.webp",
+		"id": "6"
+	  }
+	
+]

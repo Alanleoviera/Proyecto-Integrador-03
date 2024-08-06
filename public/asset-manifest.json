@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0e6ac394.css",
+    "main.js": "/static/js/main.38dfced5.js",
+    "static/media/contactus2.png": "/static/media/contactus2.90c59f0608032e9a9db1.png",
+    "static/media/fondo4.jpg": "/static/media/fondo4.8f06a4f25bd6e4654873.jpg",
+    "static/media/logo.png": "/static/media/logo.7e50208f12a3b3019f18.png",
+    "static/media/wasap-removebg-preview.png": "/static/media/wasap-removebg-preview.02fbb4ed760f0952e502.png",
+    "static/media/fondonosotros.jpg": "/static/media/fondonosotros.d84aee19dc2c0aab4736.jpg",
+    "static/media/face-removebg-preview.png": "/static/media/face-removebg-preview.603b1391665b6fd2c16e.png",
+    "static/media/Banners_métodos-de-envios1.png": "/static/media/Banners_métodos-de-envios1.ad8d80784357491db83b.png",
+    "static/media/mail-removebg-preview.png": "/static/media/mail-removebg-preview.f23eaec4fa0bb6e6e6ad.png",
+    "static/media/banner-mercadopago.jpg": "/static/media/banner-mercadopago.aafa5d9e47de54f18e73.jpg",
+    "static/media/banner muebles.jpg": "/static/media/banner muebles.c9f6a81fa27714b909d0.jpg",
+    "static/media/you-removebg-preview.png": "/static/media/you-removebg-preview.40ce1776f9fc2858da49.png",
+    "static/media/shopping-cart.png": "/static/media/shopping-cart.5b369188f27d3e04567d.png",
+    "index.html": "/index.html",
+    "main.0e6ac394.css.map": "/static/css/main.0e6ac394.css.map",
+    "main.38dfced5.js.map": "/static/js/main.38dfced5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e6ac394.css",
+    "static/js/main.38dfced5.js"
+  ]
+}
