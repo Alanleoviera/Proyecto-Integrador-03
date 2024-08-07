@@ -2,7 +2,7 @@ import mongoose from "mongoose";
 
 const mensajeSchema = mongoose.Schema({
     nombre: String,
-    correo: String,
+    email: String,
     telefono: Number,
     mensaje: String,
 }, { versionKey: false })

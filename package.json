@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "proyecto-integrador-fase03",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Servidor ApiRestful ECommerce",
   "main": "server.js",
   "scripts": {
@@ -13,7 +13,7 @@
     "node": ">=16"
   },
   "keywords": [],
-  "author": "DS",
+  "author": "Alan Viera",
   "license": "MIT",
   "dependencies": {
     "basic-ftp": "^5.0.5",
