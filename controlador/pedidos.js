@@ -31,14 +31,21 @@ class Controlador {
 
     createPreference = async (req,res) => {
         try {
-            const prefItems = req.body
-            if(!Object.keys(prefItems).length) throw new Error('ERROR: El prefItems está vacío')
-            const preferenceId = await this.servicio.createPreference(prefItems)
+            const datos = req.body
+            if(!Object.keys(datos).length) throw new Error('ERROR: datos está vacío')
+            const preferenceId = await this.servicio.createPreference(datos)
             res.json(preferenceId)
         }
         catch(error) {
             res.status(500).json({errMsg: error.message})
         }
+    }
+
+    feedback = async (req,res) => {
+        const result = req.query
+        //console.log(result)
+        const urlRta = await this.servicio.feedback(result)
+        res.redirect(urlRta)
     }
 }
 

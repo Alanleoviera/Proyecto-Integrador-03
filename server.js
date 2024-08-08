@@ -11,7 +11,7 @@ import CnxMongoDB from './model/DBMongo.js'
 import cors from 'cors'
 
 const app = express()
-app.use(cors())         // Habilito CORS: peticiones al servidor desde orígenes cruzados
+app.use(cors())  
 app.use(express.static('public'))
 app.use(express.json())
 
